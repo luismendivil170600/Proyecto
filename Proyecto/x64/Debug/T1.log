@@ -1,0 +1,16 @@
+﻿  main.cpp
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(8,14): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(22,30): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(22,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(22,38): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(23,30): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(23,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(23,38): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(24,31): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(24,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(24,39): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(236,9): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(237,9): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(295,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+G:\Clases\Computación Grafica y Visual\T1\T1\T1\main.cpp(303,13): warning C4305: '-=': truncamiento de 'double' a 'float'
+  T1.vcxproj -> G:\Clases\Computación Grafica y Visual\T1\T1\x64\Debug\T1.exe
